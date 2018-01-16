@@ -1,0 +1,18 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "FHGDev",
+  "license": "ISC",
+  "dependencies": {
+    "cleverbot.io": "^1.0.4",
+    "discord.js": "^11.3.0",
+    "enmap": "^0.4.2",
+    "enmap-rethink": "^1.0.0",
+    "nodemon": "^1.14.11"
+  }
+}
